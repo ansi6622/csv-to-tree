@@ -1,0 +1,26 @@
+{
+  "name": "csv-to-tree",
+  "version": "1.0.0",
+  "description": "Your job is to use the .csv file in the `data` directory to construct a tree of employee hierarchy. The result should be a string, indented appropriately to show the hierarchy.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/csv-to-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/csv-to-tree/issues"
+  },
+  "homepage": "https://github.com/gSchool/csv-to-tree#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
